@@ -2,6 +2,8 @@
 #include <cstdlib>
 #include <cstring>
 
+#include "GamepadState.h"
+
 #define SIGNAL_PIN 0
 #define b00thresh 0
 #define b01thresh 171
